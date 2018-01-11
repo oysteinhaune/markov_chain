@@ -1,0 +1,11 @@
+==> 2018-01-11 16:54:44 <==
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda create -p C:\Users\oyste\Documents\projects\markov_chain\venv -y python=2.7
++defaults::certifi-2017.11.5-py27h03b45e1_0
++defaults::pip-9.0.1-py27hdaa76b4_4
++defaults::python-2.7.14-h8c3f1cb_23
++defaults::setuptools-36.5.0-py27ha483b79_0
++defaults::vc-9-h7299396_1
++defaults::vs2008_runtime-9.00.30729.1-hfaea7d5_1
++defaults::wheel-0.30.0-py27ha643586_1
++defaults::wincertstore-0.2-py27hf04cefb_0
+# create specs: python 2.7*
